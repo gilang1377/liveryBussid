@@ -13,7 +13,10 @@
     "redirect_message": "Aplikasi ini sudah tidak tersedia. Silakan download versi terbaru.",
     "redirect_button_text": "Download Versi Baru",
     "maintenance_mode": false,
-    "maintenance_message": "Aplikasi sedang dalam pemeliharaan. Silakan coba beberapa saat lagi."
+    "maintenance_message": "Aplikasi sedang dalam pemeliharaan. Silakan coba beberapa saat lagi.",
+    "disable_new_project": false,
+    "disable_new_project_message": "Pembuatan project baru dinonaktifkan. Download versi terbaru untuk fitur lengkap.",
+    "disable_new_project_button_text": "Download Versi Baru"
   },
   "splash": {
     "show_duration_ms": 2000,
