@@ -1,0 +1,22 @@
+{
+  "app_config": {
+    "interstitial_every_n_exports": 3,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "rewarded_enabled": true
+  },
+  "app_status": {
+    "is_active": true,
+    "force_update": false,
+    "min_version_code": 1,
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.editor.liverybussid.v2",
+    "redirect_message": "Aplikasi ini sudah tidak tersedia. Silakan download versi terbaru.",
+    "redirect_button_text": "Download Versi Baru",
+    "maintenance_mode": false,
+    "maintenance_message": "Aplikasi sedang dalam pemeliharaan. Silakan coba beberapa saat lagi."
+  },
+  "splash": {
+    "show_duration_ms": 2000,
+    "tagline": "Buat livery bus impianmu"
+  }
+}
