@@ -1,8 +1,8 @@
 {
   "app_config": {
     "interstitial_every_n_exports": 3,
-    "banner_enabled": true,
-    "interstitial_enabled": true,
+    "banner_enabled": false,
+    "interstitial_enabled": false,
     "rewarded_enabled": true
   },
   "app_status": {
